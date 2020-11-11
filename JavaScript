@@ -8,5 +8,17 @@ Mathematical assignment operators make it easy to calculate a new value and assi
 The + operator is used to concatenate strings including string values held in variables
 In ES6, template literals use backticks ` and ${} to interpolate values into a string.
 The typeof keyword returns the data type (as a string) of a value.
+
+An if statement checks a condition and will execute a task if that condition evaluates to true.
+if...else statements make binary decisions and execute different code blocks based on a provided condition.
+We can add more conditions using else if statements.
+Comparison operators, including <, >, <=, >=, ===, and !== can compare two values.
+The logical and operator, &&, or “and”, checks if both provided expressions are truthy.
+The logical operator ||, or “or”, checks if either provided expression is truthy.
+The bang operator, !, switches the truthiness and falsiness of a value.
+The ternary operator is shorthand to simplify concise if...else statements.
+A switch statement can be used to simplify the process of writing multiple else if statements. The break keyword stops the remaining cases from being checked and executed in a switch statement.
+
 Link:
 https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
+https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet
